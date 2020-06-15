@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/45852469/map-a-vector-of-characters-to-lm-formula-in-r
